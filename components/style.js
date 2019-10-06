@@ -56,3 +56,4 @@ import './config-provider/style';
 import './empty/style';
 import './statistic/style';
 import './result/style';
+import './page-header/style';

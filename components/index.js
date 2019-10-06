@@ -138,6 +138,7 @@ import { default as ConfigProvider } from './config-provider';
 import { default as Empty } from './empty';
 
 import { default as Result } from './result';
+import { default as PageHeader } from './page-header';
 
 const components = [
   Base,
@@ -198,6 +199,7 @@ const components = [
   ConfigProvider,
   Empty,
   Result,
+  PageHeader,
 ];
 
 const install = function(Vue) {
@@ -283,6 +285,7 @@ export {
   ConfigProvider,
   Empty,
   Result,
+  PageHeader,
 };
 
 export default {
